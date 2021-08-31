@@ -1,0 +1,23 @@
+{
+  "name": "nguyenary/qr-code-monkey",
+  "description": "PHP Library for free generator QR Code from qrcode-monkey.com",
+  "require": {
+    "php": ">=7.2",
+    "curl/curl": "^2.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "nguyenary\\QRCodeMonkey\\" : "src/"
+    }
+  },
+  "suggest": {
+    "ext-json": "*"
+  },
+  "authors": [
+    {
+      "name": "nguyenary",
+      "email": "nguyenary.dev@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
