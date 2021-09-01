@@ -6,6 +6,8 @@ use nguyenary\QRCodeMonkey\QRCode;
 
 $qrcode = new QRCode('nguyenary');
 
+// NOTE: Do not generate too many QR codes at once or your IP will be locked for a period of time
+
 // Example easy for create QRCode
 print_r($qrcode->create());
 
