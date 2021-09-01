@@ -339,6 +339,10 @@ composer require nguyenary/qr-code-monkey
 ### First you need to initialize a QRCode instance
 
 ```php
+require_once 'vendor/autoload.php';
+
+use nguyenary\QRCodeMonkey\QRCode;
+
 $qrcode = new QRCode('nguyenary');
 ```
 
@@ -402,7 +406,7 @@ $qrcode->setSize(200);
 ## Features
 
 What's all the bells and whistles this project can perform?
-
+- High quality images for printing
 - Generate QRCode completely for free
 - Many QRCode templates can be customized
 - Can be exported as a URL or saved as a file
