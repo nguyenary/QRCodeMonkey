@@ -4,12 +4,12 @@
 > ✋ **NOTE:** Do not generate too many QRCode at once or your IP will be locked for a period of time
 
 <p align="center">
-    <img width="30" src="image/src/facebook.svg" width="100"> 
-    <img width="30" src="image/src/youtube.svg" width="100">
-    <img width="30" src="image/src/ninja.svg" width="100">
-    <img width="30" src="image/src/twitter.svg" width="100">
-    <img width="30" src="image/src/rain.svg" width="100">
-    <img width="30" src="image/src/jungle.svg" width="100">
+    <img src="image/src/facebook.svg" width="100"> 
+    <img src="image/src/youtube.svg" width="100">
+    <img src="image/src/ninja.svg" width="100">
+    <img src="image/src/twitter.svg" width="100">
+    <img src="image/src/rain.svg" width="100">
+    <img src="image/src/jungle.svg" width="100">
 </p>
 
 ## Getting started
