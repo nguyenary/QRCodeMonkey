@@ -3,7 +3,6 @@
   "description": "PHP Library for free generator QR Code from qrcode-monkey.com",
   "require": {
     "php": ">=7.2",
-    "curl/curl": "^2.3"
   },
   "autoload": {
     "psr-4": {
